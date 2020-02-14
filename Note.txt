@@ -3,6 +3,7 @@ https://codepen.io/bradtraversy/details/ZEGGNRb
 https://github.com/Annie-Huang/-microsoft-clone
 
 https://www.microsoft.com/en-au/
+https://cdnjs.com/libraries/font-awesome
 =======================================================
 
 C:\react\microsoft-clone>npm init
