@@ -7,3 +7,6 @@ https://www.microsoft.com/en-au/
 
 C:\react\microsoft-clone>npm init
 C:\react\microsoft-clone>npm install --save-dev lite-server
+
+C:\react\microsoft-clone>npm run start      << always search for the index.html that in the same level as the package.json
+http://localhost:3000
