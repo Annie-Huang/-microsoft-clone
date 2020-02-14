@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Annie-Huang/microsoft-clone/issues"
   },
-  "homepage": "https://github.com/Annie-Huang/microsoft-clone#readme"
+  "homepage": "https://github.com/Annie-Huang/microsoft-clone#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
 }

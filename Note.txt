@@ -6,3 +6,4 @@ https://www.microsoft.com/en-au/
 =======================================================
 
 C:\react\microsoft-clone>npm init
+C:\react\microsoft-clone>npm install --save-dev lite-server
