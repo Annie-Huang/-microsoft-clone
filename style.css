@@ -37,8 +37,16 @@ ul {
     font-size: 13px;
 }
 
+.main-nav .logo {
+    width: 110px;
+}
+
 .main-nav ul { /* So this can apply to both main-menu and right menu */
     display: flex;
+}
+
+.main-nav ul li {
+    padding: 0 10px;
 }
 
 .main-nav ul.main-menu {
