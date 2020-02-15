@@ -176,9 +176,18 @@ ul {
 
 }
 
+/* Follow */
+.follow {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    margin: 30px 0 30px;
+}
 
-
-
+/* Good one. I didn't know you can do this to apply to every child in the class.*/
+.follow * {
+    margin-right: 10px;
+}
 
 
 
