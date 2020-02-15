@@ -242,6 +242,10 @@ ul {
     align-items: center;
 }
 
+.footer div i {
+    margin-right: 10px;
+}
+
 .footer ul {
     display: flex;
     flex-wrap: wrap; /* reinforce it into one line */
