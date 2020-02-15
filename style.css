@@ -173,7 +173,6 @@ ul {
 .carbon .content {
     width: 55%;
     padding: 100px 0 0 30px;
-
 }
 
 /* Follow */
@@ -256,7 +255,31 @@ ul {
     margin-bottom: 20px;
 }
 
+@media(max-width: 700px) {
+    .home-cards {
+        grid-template-columns: repeat(2, 1fr);
+    }
 
+    .xbox .content p {
+        display: none;
+    }
+
+    .xbox .content h2 {
+        /* This is align to the ".xbox p" in the desktop version */
+        margin-bottom: 20px;
+    }
+
+    .carbon .content {
+        /*width: 55%; in desktop version*/
+        width: 85%;
+    }
+
+    .links .links-inner {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    /* Left out the footer because it wrapped */
+}
 
 
 
