@@ -112,6 +112,8 @@ ul {
     grid-template-columns: repeat(4, 1fr);
     /* This below, together with margin-bottom: 20px in .showcase, will make the gaps look correct size.*/
     grid-gap: 20px;
+
+    margin-bottom: 40px;
 }
 
 .home-cards img {
