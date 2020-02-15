@@ -232,7 +232,14 @@ ul {
 }
 
 .footer div {
+    /* Keep this the same as .footer li */
     margin-bottom: 20px;
+
+    /* This will force the div text align with the li text vertically
+        But I don't quite underdstand why... Is it because it's align to .footer-inner??
+    */
+    display: flex;
+    align-items: center;
 }
 
 .footer ul {
