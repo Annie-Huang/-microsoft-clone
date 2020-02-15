@@ -287,6 +287,16 @@ ul {
         transform: translateX(-500px);
     }
 
+    .main-nav ul.main-menu li {
+        padding: 10px;
+        border-bottom: #ccc solid 1px;
+        font-size: 14px;
+    }
+
+    .main-nav ul.main-menu li:last-child {
+        border-bottom: 0;
+    }
+
     .main-nav ul.main-menu.show {
         transform: translateX(-20px);
     }
